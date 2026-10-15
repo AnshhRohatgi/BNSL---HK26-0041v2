@@ -1,0 +1,18 @@
+date,building,resource,consumption,unit,unit_cost
+2026-10-01,Science Block,electricity,300,kWh,8.0
+2026-10-02,Science Block,electricity,300,kWh,8.0
+2026-10-03,Science Block,electricity,300,kWh,8.0
+2026-10-04,Science Block,electricity,300,kWh,8.0
+2026-10-05,Science Block,electricity,300,kWh,8.0
+2026-10-06,Science Block,electricity,300,kWh,8.0
+2026-10-07,Science Block,electricity,300,kWh,8.0
+2026-10-08,Science Block,electricity,300,kWh,8.0
+2026-10-09,Science Block,electricity,300,kWh,8.0
+2026-10-10,Science Block,electricity,300,kWh,8.0
+2026-10-11,Science Block,electricity,300,kWh,8.0
+2026-10-12,Science Block,electricity,450,kWh,8.0
+2026-10-01,Canteen,water,5000,L,0.08
+2026-10-02,Canteen,water,5000,L,0.08
+2026-10-03,Canteen,water,5000,L,0.08
+2026-10-04,Canteen,water,5000,L,0.08
+2026-10-05,Canteen,water,5000,L,0.08
