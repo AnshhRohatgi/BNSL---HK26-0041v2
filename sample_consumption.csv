@@ -1,0 +1,271 @@
+date,building,resource,consumption,unit,unit_cost
+2026-09-01,Computer Lab 3,electricity,388,kWh,8.0
+2026-09-01,Library,electricity,242,kWh,8.0
+2026-09-01,Hostel,electricity,582,kWh,8.0
+2026-09-01,Computer Lab 3,water,2910,L,0.08
+2026-09-01,Library,water,1940,L,0.08
+2026-09-01,Hostel,water,11640,L,0.08
+2026-09-01,Administrative Office,paper,146,sheets,0.5
+2026-09-01,Library,paper,78,sheets,0.5
+2026-09-01,Computer Lab 3,paper,116,sheets,0.5
+2026-09-02,Computer Lab 3,electricity,396,kWh,8.0
+2026-09-02,Library,electricity,248,kWh,8.0
+2026-09-02,Hostel,electricity,594,kWh,8.0
+2026-09-02,Computer Lab 3,water,2970,L,0.08
+2026-09-02,Library,water,1980,L,0.08
+2026-09-02,Hostel,water,11880,L,0.08
+2026-09-02,Administrative Office,paper,148,sheets,0.5
+2026-09-02,Library,paper,79,sheets,0.5
+2026-09-02,Computer Lab 3,paper,119,sheets,0.5
+2026-09-03,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-03,Library,electricity,250,kWh,8.0
+2026-09-03,Hostel,electricity,600,kWh,8.0
+2026-09-03,Computer Lab 3,water,3000,L,0.08
+2026-09-03,Library,water,2000,L,0.08
+2026-09-03,Hostel,water,12000,L,0.08
+2026-09-03,Administrative Office,paper,150,sheets,0.5
+2026-09-03,Library,paper,80,sheets,0.5
+2026-09-03,Computer Lab 3,paper,120,sheets,0.5
+2026-09-04,Computer Lab 3,electricity,404,kWh,8.0
+2026-09-04,Library,electricity,252,kWh,8.0
+2026-09-04,Hostel,electricity,606,kWh,8.0
+2026-09-04,Computer Lab 3,water,3030,L,0.08
+2026-09-04,Library,water,2020,L,0.08
+2026-09-04,Hostel,water,12120,L,0.08
+2026-09-04,Administrative Office,paper,152,sheets,0.5
+2026-09-04,Library,paper,81,sheets,0.5
+2026-09-04,Computer Lab 3,paper,121,sheets,0.5
+2026-09-05,Computer Lab 3,electricity,412,kWh,8.0
+2026-09-05,Library,electricity,258,kWh,8.0
+2026-09-05,Hostel,electricity,618,kWh,8.0
+2026-09-05,Computer Lab 3,water,3090,L,0.08
+2026-09-05,Library,water,2060,L,0.08
+2026-09-05,Hostel,water,12360,L,0.08
+2026-09-05,Administrative Office,paper,154,sheets,0.5
+2026-09-05,Library,paper,82,sheets,0.5
+2026-09-05,Computer Lab 3,paper,124,sheets,0.5
+2026-09-06,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-06,Library,electricity,250,kWh,8.0
+2026-09-06,Hostel,electricity,600,kWh,8.0
+2026-09-06,Computer Lab 3,water,3000,L,0.08
+2026-09-06,Library,water,2000,L,0.08
+2026-09-06,Hostel,water,12000,L,0.08
+2026-09-06,Administrative Office,paper,150,sheets,0.5
+2026-09-06,Library,paper,80,sheets,0.5
+2026-09-06,Computer Lab 3,paper,120,sheets,0.5
+2026-09-07,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-07,Library,electricity,250,kWh,8.0
+2026-09-07,Hostel,electricity,600,kWh,8.0
+2026-09-07,Computer Lab 3,water,3000,L,0.08
+2026-09-07,Library,water,2000,L,0.08
+2026-09-07,Hostel,water,12000,L,0.08
+2026-09-07,Administrative Office,paper,150,sheets,0.5
+2026-09-07,Library,paper,80,sheets,0.5
+2026-09-07,Computer Lab 3,paper,120,sheets,0.5
+2026-09-08,Computer Lab 3,electricity,388,kWh,8.0
+2026-09-08,Library,electricity,242,kWh,8.0
+2026-09-08,Hostel,electricity,582,kWh,8.0
+2026-09-08,Computer Lab 3,water,2910,L,0.08
+2026-09-08,Library,water,1940,L,0.08
+2026-09-08,Hostel,water,11640,L,0.08
+2026-09-08,Administrative Office,paper,146,sheets,0.5
+2026-09-08,Library,paper,78,sheets,0.5
+2026-09-08,Computer Lab 3,paper,116,sheets,0.5
+2026-09-09,Computer Lab 3,electricity,396,kWh,8.0
+2026-09-09,Library,electricity,248,kWh,8.0
+2026-09-09,Hostel,electricity,594,kWh,8.0
+2026-09-09,Computer Lab 3,water,2970,L,0.08
+2026-09-09,Library,water,1980,L,0.08
+2026-09-09,Hostel,water,11880,L,0.08
+2026-09-09,Administrative Office,paper,148,sheets,0.5
+2026-09-09,Library,paper,79,sheets,0.5
+2026-09-09,Computer Lab 3,paper,119,sheets,0.5
+2026-09-10,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-10,Library,electricity,250,kWh,8.0
+2026-09-10,Hostel,electricity,600,kWh,8.0
+2026-09-10,Computer Lab 3,water,3000,L,0.08
+2026-09-10,Library,water,2000,L,0.08
+2026-09-10,Hostel,water,12000,L,0.08
+2026-09-10,Administrative Office,paper,150,sheets,0.5
+2026-09-10,Library,paper,80,sheets,0.5
+2026-09-10,Computer Lab 3,paper,120,sheets,0.5
+2026-09-11,Computer Lab 3,electricity,404,kWh,8.0
+2026-09-11,Library,electricity,252,kWh,8.0
+2026-09-11,Hostel,electricity,606,kWh,8.0
+2026-09-11,Computer Lab 3,water,3030,L,0.08
+2026-09-11,Library,water,2020,L,0.08
+2026-09-11,Hostel,water,12120,L,0.08
+2026-09-11,Administrative Office,paper,152,sheets,0.5
+2026-09-11,Library,paper,81,sheets,0.5
+2026-09-11,Computer Lab 3,paper,121,sheets,0.5
+2026-09-12,Computer Lab 3,electricity,412,kWh,8.0
+2026-09-12,Library,electricity,258,kWh,8.0
+2026-09-12,Hostel,electricity,618,kWh,8.0
+2026-09-12,Computer Lab 3,water,3090,L,0.08
+2026-09-12,Library,water,2060,L,0.08
+2026-09-12,Hostel,water,12360,L,0.08
+2026-09-12,Administrative Office,paper,154,sheets,0.5
+2026-09-12,Library,paper,82,sheets,0.5
+2026-09-12,Computer Lab 3,paper,124,sheets,0.5
+2026-09-13,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-13,Library,electricity,250,kWh,8.0
+2026-09-13,Hostel,electricity,600,kWh,8.0
+2026-09-13,Computer Lab 3,water,3000,L,0.08
+2026-09-13,Library,water,2000,L,0.08
+2026-09-13,Hostel,water,12000,L,0.08
+2026-09-13,Administrative Office,paper,150,sheets,0.5
+2026-09-13,Library,paper,80,sheets,0.5
+2026-09-13,Computer Lab 3,paper,120,sheets,0.5
+2026-09-14,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-14,Library,electricity,250,kWh,8.0
+2026-09-14,Hostel,electricity,600,kWh,8.0
+2026-09-14,Computer Lab 3,water,3000,L,0.08
+2026-09-14,Library,water,2000,L,0.08
+2026-09-14,Hostel,water,12000,L,0.08
+2026-09-14,Administrative Office,paper,150,sheets,0.5
+2026-09-14,Library,paper,80,sheets,0.5
+2026-09-14,Computer Lab 3,paper,120,sheets,0.5
+2026-09-15,Computer Lab 3,electricity,388,kWh,8.0
+2026-09-15,Library,electricity,242,kWh,8.0
+2026-09-15,Hostel,electricity,582,kWh,8.0
+2026-09-15,Computer Lab 3,water,2910,L,0.08
+2026-09-15,Library,water,1940,L,0.08
+2026-09-15,Hostel,water,11640,L,0.08
+2026-09-15,Administrative Office,paper,146,sheets,0.5
+2026-09-15,Library,paper,78,sheets,0.5
+2026-09-15,Computer Lab 3,paper,116,sheets,0.5
+2026-09-16,Computer Lab 3,electricity,396,kWh,8.0
+2026-09-16,Library,electricity,248,kWh,8.0
+2026-09-16,Hostel,electricity,594,kWh,8.0
+2026-09-16,Computer Lab 3,water,2970,L,0.08
+2026-09-16,Library,water,1980,L,0.08
+2026-09-16,Hostel,water,11880,L,0.08
+2026-09-16,Administrative Office,paper,148,sheets,0.5
+2026-09-16,Library,paper,79,sheets,0.5
+2026-09-16,Computer Lab 3,paper,119,sheets,0.5
+2026-09-17,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-17,Library,electricity,250,kWh,8.0
+2026-09-17,Hostel,electricity,600,kWh,8.0
+2026-09-17,Computer Lab 3,water,3000,L,0.08
+2026-09-17,Library,water,2000,L,0.08
+2026-09-17,Hostel,water,12000,L,0.08
+2026-09-17,Administrative Office,paper,150,sheets,0.5
+2026-09-17,Library,paper,80,sheets,0.5
+2026-09-17,Computer Lab 3,paper,120,sheets,0.5
+2026-09-18,Computer Lab 3,electricity,404,kWh,8.0
+2026-09-18,Library,electricity,252,kWh,8.0
+2026-09-18,Hostel,electricity,606,kWh,8.0
+2026-09-18,Computer Lab 3,water,3030,L,0.08
+2026-09-18,Library,water,2020,L,0.08
+2026-09-18,Hostel,water,12120,L,0.08
+2026-09-18,Administrative Office,paper,152,sheets,0.5
+2026-09-18,Library,paper,81,sheets,0.5
+2026-09-18,Computer Lab 3,paper,121,sheets,0.5
+2026-09-19,Computer Lab 3,electricity,412,kWh,8.0
+2026-09-19,Library,electricity,258,kWh,8.0
+2026-09-19,Hostel,electricity,618,kWh,8.0
+2026-09-19,Computer Lab 3,water,3090,L,0.08
+2026-09-19,Library,water,2060,L,0.08
+2026-09-19,Hostel,water,12360,L,0.08
+2026-09-19,Administrative Office,paper,154,sheets,0.5
+2026-09-19,Library,paper,82,sheets,0.5
+2026-09-19,Computer Lab 3,paper,124,sheets,0.5
+2026-09-20,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-20,Library,electricity,250,kWh,8.0
+2026-09-20,Hostel,electricity,600,kWh,8.0
+2026-09-20,Computer Lab 3,water,3000,L,0.08
+2026-09-20,Library,water,2000,L,0.08
+2026-09-20,Hostel,water,18000,L,0.08
+2026-09-20,Administrative Office,paper,150,sheets,0.5
+2026-09-20,Library,paper,80,sheets,0.5
+2026-09-20,Computer Lab 3,paper,120,sheets,0.5
+2026-09-21,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-21,Library,electricity,250,kWh,8.0
+2026-09-21,Hostel,electricity,600,kWh,8.0
+2026-09-21,Computer Lab 3,water,3000,L,0.08
+2026-09-21,Library,water,2000,L,0.08
+2026-09-21,Hostel,water,12000,L,0.08
+2026-09-21,Administrative Office,paper,150,sheets,0.5
+2026-09-21,Library,paper,80,sheets,0.5
+2026-09-21,Computer Lab 3,paper,120,sheets,0.5
+2026-09-22,Computer Lab 3,electricity,388,kWh,8.0
+2026-09-22,Library,electricity,242,kWh,8.0
+2026-09-22,Hostel,electricity,582,kWh,8.0
+2026-09-22,Computer Lab 3,water,2910,L,0.08
+2026-09-22,Library,water,1940,L,0.08
+2026-09-22,Hostel,water,11640,L,0.08
+2026-09-22,Administrative Office,paper,146,sheets,0.5
+2026-09-22,Library,paper,78,sheets,0.5
+2026-09-22,Computer Lab 3,paper,116,sheets,0.5
+2026-09-23,Computer Lab 3,electricity,396,kWh,8.0
+2026-09-23,Library,electricity,248,kWh,8.0
+2026-09-23,Hostel,electricity,594,kWh,8.0
+2026-09-23,Computer Lab 3,water,2970,L,0.08
+2026-09-23,Library,water,1980,L,0.08
+2026-09-23,Hostel,water,11880,L,0.08
+2026-09-23,Administrative Office,paper,148,sheets,0.5
+2026-09-23,Library,paper,79,sheets,0.5
+2026-09-23,Computer Lab 3,paper,119,sheets,0.5
+2026-09-24,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-24,Library,electricity,250,kWh,8.0
+2026-09-24,Hostel,electricity,600,kWh,8.0
+2026-09-24,Computer Lab 3,water,3000,L,0.08
+2026-09-24,Library,water,2000,L,0.08
+2026-09-24,Hostel,water,12000,L,0.08
+2026-09-24,Administrative Office,paper,150,sheets,0.5
+2026-09-24,Library,paper,80,sheets,0.5
+2026-09-24,Computer Lab 3,paper,120,sheets,0.5
+2026-09-25,Computer Lab 3,electricity,404,kWh,8.0
+2026-09-25,Library,electricity,252,kWh,8.0
+2026-09-25,Hostel,electricity,606,kWh,8.0
+2026-09-25,Computer Lab 3,water,3030,L,0.08
+2026-09-25,Library,water,2020,L,0.08
+2026-09-25,Hostel,water,12120,L,0.08
+2026-09-25,Administrative Office,paper,152,sheets,0.5
+2026-09-25,Library,paper,81,sheets,0.5
+2026-09-25,Computer Lab 3,paper,121,sheets,0.5
+2026-09-26,Computer Lab 3,electricity,412,kWh,8.0
+2026-09-26,Library,electricity,258,kWh,8.0
+2026-09-26,Hostel,electricity,618,kWh,8.0
+2026-09-26,Computer Lab 3,water,3090,L,0.08
+2026-09-26,Library,water,2060,L,0.08
+2026-09-26,Hostel,water,12360,L,0.08
+2026-09-26,Administrative Office,paper,154,sheets,0.5
+2026-09-26,Library,paper,82,sheets,0.5
+2026-09-26,Computer Lab 3,paper,124,sheets,0.5
+2026-09-27,Computer Lab 3,electricity,400,kWh,8.0
+2026-09-27,Library,electricity,250,kWh,8.0
+2026-09-27,Hostel,electricity,600,kWh,8.0
+2026-09-27,Computer Lab 3,water,3000,L,0.08
+2026-09-27,Library,water,2000,L,0.08
+2026-09-27,Hostel,water,12000,L,0.08
+2026-09-27,Administrative Office,paper,150,sheets,0.5
+2026-09-27,Library,paper,80,sheets,0.5
+2026-09-27,Computer Lab 3,paper,120,sheets,0.5
+2026-09-28,Computer Lab 3,electricity,580,kWh,8.0
+2026-09-28,Library,electricity,250,kWh,8.0
+2026-09-28,Hostel,electricity,600,kWh,8.0
+2026-09-28,Computer Lab 3,water,3000,L,0.08
+2026-09-28,Library,water,2000,L,0.08
+2026-09-28,Hostel,water,12000,L,0.08
+2026-09-28,Administrative Office,paper,150,sheets,0.5
+2026-09-28,Library,paper,80,sheets,0.5
+2026-09-28,Computer Lab 3,paper,120,sheets,0.5
+2026-09-29,Computer Lab 3,electricity,388,kWh,8.0
+2026-09-29,Library,electricity,242,kWh,8.0
+2026-09-29,Hostel,electricity,582,kWh,8.0
+2026-09-29,Computer Lab 3,water,2910,L,0.08
+2026-09-29,Library,water,1940,L,0.08
+2026-09-29,Hostel,water,11640,L,0.08
+2026-09-29,Administrative Office,paper,146,sheets,0.5
+2026-09-29,Library,paper,78,sheets,0.5
+2026-09-29,Computer Lab 3,paper,116,sheets,0.5
+2026-09-30,Computer Lab 3,electricity,396,kWh,8.0
+2026-09-30,Library,electricity,248,kWh,8.0
+2026-09-30,Hostel,electricity,594,kWh,8.0
+2026-09-30,Computer Lab 3,water,2970,L,0.08
+2026-09-30,Library,water,1980,L,0.08
+2026-09-30,Hostel,water,11880,L,0.08
+2026-09-30,Administrative Office,paper,148,sheets,0.5
+2026-09-30,Library,paper,79,sheets,0.5
+2026-09-30,Computer Lab 3,paper,119,sheets,0.5
