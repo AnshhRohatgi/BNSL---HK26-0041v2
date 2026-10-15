@@ -1,0 +1,10 @@
+date,building,resource,consumption,unit,unit_cost
+2026-10-01,Science Block,electricity,500,kWh,8.0
+2026-13-45,Science Block,water,4000,L,0.08
+2026-10-01,,paper,200,sheets,0.50
+2026-10-02,Canteen,gas,300,m3,40
+2026-10-02,Canteen,electricity,-50,kWh,8.0
+2026-10-02,Canteen,water,,L,0.08
+2026-10-03,Canteen,electricity,300,L,8.0
+2026-10-03,Canteen,paper,abc,sheets,0.50
+2026-10-04,Library,water,1000,L,0.08
